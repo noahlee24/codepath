@@ -1,0 +1,36 @@
+TIC-TAC-TOE — OFFICIAL RULES SUMMARY
+OVERVIEW
+
+Tic-Tac-Toe is a two-player strategy game played on a 3×3 grid. Players take turns placing their symbol, either X or O, into empty spaces on the board. The objective is to be the first player to form a line of three matching symbols horizontally, vertically, or diagonally. If all spaces are filled without either player achieving three in a row, the game ends in a draw.
+
+COMPONENTS
+
+A 3×3 game board, one player using X markers, and one player using O markers.
+
+SETUP
+
+Place the empty game board between both players. Decide which player will use X and which player will use O. The player using X takes the first turn.
+
+TURN STRUCTURE
+
+Players alternate turns throughout the game. On a turn, a player places their symbol into one empty square on the board. Once a symbol has been placed, it cannot be moved or removed. After placing a symbol, the turn passes to the opposing player.
+
+PLACING MARKERS
+
+A player may only place a symbol in an unoccupied square. Players cannot place a symbol in a square that already contains an X or O. Each turn consists of placing exactly one symbol.
+
+WINNING
+
+A player wins immediately upon placing three of their symbols in a continuous line. A winning line may consist of three symbols in the same row, three symbols in the same column, or three symbols on a diagonal.
+
+DRAWS
+
+If all nine spaces on the board have been filled and neither player has formed a line of three matching symbols, the game ends in a draw.
+
+END OF THE GAME
+
+The game ends immediately when a player forms a winning line of three matching symbols or when all spaces have been filled and the game results in a draw. No additional turns are taken after the game has ended.
+
+STRATEGY NOTES
+
+Controlling the center square provides the greatest number of opportunities to create winning lines. Corner squares participate in more potential winning combinations than edge squares. Players should balance creating their own winning opportunities with blocking their opponent's attempts to form three in a row.
