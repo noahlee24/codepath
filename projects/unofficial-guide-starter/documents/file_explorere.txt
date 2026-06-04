@@ -1,0 +1,90 @@
+Windows File Explorer helps you find, open, organize, and manage files and folders on your PC and in the cloud.
+
+Windows 11
+Windows 10
+To open File Explorer in Windows 11, select it on the taskbar or the Start menu, or press the Windows logo key + E on your keyboard.
+
+Shows File Explorer, with the right-click menu open for a file. "Pin to Quick access" is highlighted in the menu.
+
+How to use File Explorer:
+
+To pin a folder to Quick access, right-click (or press and hold) the folder and select Pin to Quick access.
+
+To share a file, select it, then select Share  on the ribbon.
+
+To move the location of a file or folder, select it and then select Cut  on the ribbon. Navigate to the new location, then select Paste .
+
+Note: For files and folders in Quick access, you'll need to right-click (or press and hold) and select Open before you can cut and paste.
+
+To change how your items appear in File Explorer, select View on the ribbon and choose between showing icons, lists, details, and more.
+
+To reduce the space between files, select View > Compact view.
+
+To find relevant files from your PC and the cloud, search from File Explorer Home.
+
+Note: Sign in to your cloud account(s) from Start  > Settings  > Accounts  to enable cloud search.
+
+Quick access
+Starting with Windows 11, version 22H2, the known Windows folders—Desktop, Documents, Downloads, Pictures, Music, and Videos—are available by default as pinned folders in Quick access in both File Explorer Home and the left navigation pane. These default folders are no longer displayed under This PC to keep the view focused on your PC’s drives and network locations. 
+
+Where to find the permanent location of known folders in Windows 11 File Explorer.
+
+You can set any folder to show up in Quick access so it'll be easy to find. Just right-click (or long-press) it and select Pin to Quick access. Unpin it when you don’t need it there anymore by right-clicking (or long-pressing) it and selecting Unpin from Quick access.
+
+Restore known folders if you have unpinned them
+If you unpin these known Windows folders and decide to restore them later, here is an easy way to restore them in Quick access under Home and in the navigation pane: 
+
+Select Start  > File Explorer , or select the File Explorer  icon in the taskbar.
+
+Select Home  in the left navigation pane.
+
+Select the Up arrow from the navigation buttons available to the left of the address bar. This view displays all 6 known Windows folders—Desktop, Documents, Downloads, Pictures, Music, and Videos.
+
+Select and hold (or right-click) on the folder you wish to restore and select Pin to Quick access from the context menu.
+
+The folder will now be available in your navigation pane and in File Explorer Home.
+
+Restore the left navigation pane if you have hidden it
+If you have hidden the left navigation pane and would like to make it visible in your File Explorer window, you can show it again using these steps: 
+
+Select Start  > File Explorer , or select the File Explorer  icon in the taskbar.
+
+Select View from the Command Bar.
+
+Select Show, then select Navigation Pane.
+
+The navigation pane should now be visible in your File Explorer window.
+
+Context menu
+File Explorer has a new, streamlined context menu, making it easier to get to popular commands. Right-click on a file to access the new context menu. 
+
+Find common actions
+You can find Cut , Copy , Paste , Rename , Share , and Delete  at the top of the context menu. Hover over any icon to see its name. 
+
+Select commands for files or folders in the File Explorer right-click context menu.
+
+Find commands from the previous Windows 10 context menu
+Right-click (or select and hold) on a file or folder to open the context menu.
+
+Select Show more options.
+
+Note: Not all extensions from Windows 10 will be available in the streamlined Windows 11 context menu, but they’ll always be available when selecting Show more options. Some apps will update over time to join the new context menu. Check with your app developer about availability and timing for specific apps.  
+
+Common File Explorer options
+Set File Explorer to open to This PC
+By default, File Explorer opens to Quick access, renamed to File Explorer Home in Windows 11, Version 22H2. We recommend Home as your landing page in File Explorer, where you can:
+
+Access your most recent and favorited Office.com files quickly.
+
+Search and find your relevant files from your PC and the cloud much faster than with This PC.
+
+If you’d rather have File Explorer open to This PC, on the ribbon, select See more  > Options > Open File Explorer to, then select This PC > Apply. 
+
+Show file name extensions
+Open File Explorer  from the taskbar. Select View > Show, then select File name extensions to view file name extensions.
+
+Show hidden files
+Open File Explorer  from the taskbar. Select View > Show, then select Hidden items to view hidden files and folders.
+
+Show item checkboxes
+Open File Explorer  from the taskbar. Select View > Show, then select Item check boxes to view a check box next to files and folders to select them.

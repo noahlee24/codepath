@@ -1,0 +1,118 @@
+How to Resolve Audio/Video Issues During a Teams or Zoom Meeting
+Summary
+This article outlines steps to resolve common audio and video issues during Microsoft Teams or Zoom meetings, including checking device settings, testing audio and video, and ensuring a stable internet connection.
+Body
+Purpose
+This article provides steps to help users troubleshoot and resolve audio and video issues during a Microsoft Teams or Zoom meeting. 
+
+Target Audience
+General Public
+
+Vanderbilt University Community
+
+Faculty and Staff
+
+Undergraduate Students
+
+Graduate and Professional Students
+
+VUIT Internal Knowledge  
+
+Prerequisites
+Have a basic understanding of your device’s audio and video settings.
+
+Have access to Microsoft Teams or Zoom on your device.
+
+Have an internet connection and access to your microphone/camera.
+
+Description
+Experiencing audio or video issues during a Teams or Zoom meeting can disrupt your ability to participate effectively. This guide covers common troubleshooting methods to ensure your microphone, speakers, and camera are functioning properly during a virtual meeting.  
+
+Resolution or Procedure Steps
+For Microsoft Teams:
+1. Check Your Device Settings:
+Before joining the meeting, ensure your microphone and camera are connected and enabled.
+
+Click on your profile picture in Teams, then go to Settings > Devices.
+
+Ensure the correct microphone, speakers, and camera are selected from the drop-down menus.
+
+2. During the Meeting:
+Click the More options (···) button in the meeting toolbar, then select Device settings.
+
+Ensure that your microphone and camera are turned on (icon should not be crossed out).
+
+If no one can hear you, check if you are muted by looking at the microphone icon in the toolbar.
+
+3. Run a Test Call (Optional):
+In the Settings > Devices section, you can make a test call to check your audio quality and camera setup before your meeting.
+4. Restart Microsoft Teams:
+If issues persist, close and reopen the Teams application. Ensure it's updated by clicking Check for updates under Settings.
+5. Check for External Conflicts:
+Ensure no other applications are using your microphone or camera at the same time (e.g., Zoom, Skype, or recording software).
+For Zoom:
+1. Test Audio and Video Before Joining:
+Open Zoom and click on Settings (gear icon).
+
+Navigate to Audio and Video tabs to select and test your microphone and camera.
+
+Click Test Speaker and Microphone to verify that your device’s audio input and output are working.
+
+2. Check Audio/Video During the Meeting:
+In the meeting toolbar, click the arrow next to the Mute/Unmute button.
+
+From the drop-down menu, ensure that the correct microphone and speaker are selected.
+
+If video is not working, click the arrow next to the Start Video button and verify that the correct camera is selected.
+
+3. Restart Zoom:
+Close Zoom, then restart the app. Log back into the meeting to check if the issue is resolved.
+
+Make sure Zoom is updated to the latest version by navigating to Check for Updates in the Zoom client.
+
+4. Check for External Conflicts:
+Like Teams, ensure no other applications are using your microphone or camera.
+For Both Teams and Zoom:
+1. Check Device Volume and Camera:
+Ensure your device’s physical volume is turned up.
+
+Make sure the camera isn’t covered or blocked by any software privacy settings.
+
+2. Check Internet Connection:
+A poor internet connection can cause choppy audio or video. Ensure that you’re connected to a stable network.
+
+If possible, switch to a wired Ethernet connection to improve reliability.
+
+If remote, see: Tips for Improving Your Home Network Performance
+
+3. Update Audio/Video Drivers:
+Ensure that your audio and video drivers are up-to-date.
+
+Place a Desktop Support Service Request for assistance
+
+Or, see: How to Update Computer Operating Systems (OS): Windows and MacOS
+
+4. Restart Your Computer:
+Sometimes restarting your device can resolve underlying system conflicts affecting your audio or video setup.
+Common Issues/Troubleshooting
+No Sound:
+
+Check if your speakers are muted or turned off in your computer’s sound settings.
+
+Ensure the correct output device is selected in the Teams/Zoom settings.
+
+Choppy Audio/Video:
+
+Check your internet connection for stability or switch to a wired connection.
+
+Close unnecessary apps to free up system resources.
+
+Camera Not Working:
+
+Make sure the camera is not being used by another application.
+
+Verify that your webcam privacy settings are set to allow access for Teams/Zoom.
+
+Laptops are often equipped with privacy shutters for webcams; ensure the shutter is set to an open position.
+
+See: Using Webcam Shutters for Your VU Issued Laptop

@@ -1,0 +1,117 @@
+Free up drive space in Windows
+Applies To
+Windows 11 Windows 10
+Productivity apps, 1 TB of cloud storage, and advanced security
+We think you'll really like this.
+SUMMARY
+If your PC is running out of storage space, you may notice slower performance or trouble installing Windows updates. Freeing up space can help your device run better and stay secure. Below are several easy ways to free up space in Windows. Try them in order—after each step, check to see if you’ve freed up enough space before moving on to the next one.
+
+To check the total disk space left on your Windows 11 device, select File Explorer  from the taskbar, and then select This PC on the left. The available space on your drive will appear under Devices and drives.
+
+Note: If you follow the steps below and continue to have trouble updating Windows because of low disk space, resetting or reinstalling Windows might help. For more info, see Reinstall Windows.
+
+SOLUTION 1 Manage drive space with Storage Sense
+Summary
+Storage Sense can automatically free up drive space for you by getting rid of items that you don't need, like temporary files and items in your Recycle Bin. Here’s more info on how it works and how to set it up to meet your needs. 
+
+If Storage Sense is turned on with the default settings, it will run when your device is low on disk space and will clean up unnecessary temporary files. Content from the Recycle Bin will be deleted by default after some time, but items in your Downloads folder and OneDrive (or any other cloud provider) will not be touched unless you set up Storage Sense to do so.  
+
+Important: Storage Sense works on your system drive only, which contains the Windows operating system and is usually referred to as C:. To free up space on other drives, go to Start  > Settings  > System  > Storage  > Advanced storage settings > Storage used on other drives. 
+
+Turn on Storage Sense 
+Go to Start  > Settings  > System  > Storage  .
+
+Set Storage Sense to On.
+
+Choose your Storage Sense settings
+Note: Any settings you choose will apply only for you. Other users on your device can manage their own settings.
+
+Go to Start  > Settings  > System  > Storage  .
+
+Select Storage Sense. To tell Storage Sense how often to run and what to clean up, follow these instructions. 
+
+Choose when to run Storage Sense 
+Make sure Storage Sense is turned on.
+
+Under Run Storage Sense, select how frequently you want Storage Sense to run when you’re online and signed in. 
+
+Note: Low free disk space will vary depending on disk size and minimum operational thresholds. You're in a low disk state when the capacity bar in Start  > Settings  > System  > Storage  turns red.
+
+Choose your preferences for deleting temporary files
+Under Delete files in my recycle bin if they have been there for over: and Delete files in my Downloads folder if they haven't been opened for more than:, choose when files from your Recycle Bin or Downloads folder are deleted. 
+ 
+
+Manage locally available cloud content
+Note: You'll only see cloud content settings when you’re signed in to your cloud account.
+
+Cloud files can exist locally on the disk or be available online only. To choose the conditions for when inactive files are made online only, under Content will become online-only if not opened for more than: choose your preferred amount of time. Note that starting in Windows 11, version 22H2, the default for OneDrive cloud files is to make files online-only if not opened for more than 30 days.
+
+Important: This setting will not permanently delete any files. Files can be made locally available again if there is free disk space and network connectivity. Any file marked as Always keep on this device is exempted and will not be managed by Storage Sense. 
+
+
+SOLUTION 2 IF YOU'RE GETTING A LOW DISK SPACE ERROR BECAUSE OF A FULL TEMP FOLDER
+If you're getting a Low Disk Space error because of a full Temp folder
+If you used Cleanup recommendations to free up space on your device and then see a Low Disk Space error, it’s possible that your Temp folder is quickly filling up with application (.appx) files that are used by Microsoft Store. To fix this problem, you’ll need to reset the Store, clear the Store cache, and run the Windows Update troubleshooter:
+
+To reset Microsoft Store, select Start  > Settings  > System  > Troubleshoot  > Other troubleshooters  , then next to Windows Store Apps  , select Run.
+
+To clear the Microsoft Store cache, press the Windows Logo Key  + R to open the Run dialog box, then type wsreset.exe and select OK. A blank Command Prompt window will open, and after about ten seconds the window will close and the Store will open automatically.
+
+To reset Windows Update, select Start  > Settings  > System  > Troubleshoot  > Other troubleshooters  , then next to Windows Update  , select Run.
+
+Restart your computer and see if you are still experiencing the issue.
+
+SOLUTION 3 FREE UP SPACE WITH CLEANUP RECOMMENDATIONS
+If you don't want to use Storage Sense, Cleanup recommendations can help you identify and clean up temporary files and system files from your device.
+
+Select Start  > Settings  > System  > Storage  > Cleanup recommendations.
+
+Review each of the categories, including Temporary files, Large or unused files, Files synced to the cloud, and Unused apps, and select the items you'd like to remove. Windows will suggest files for you and show the amount of space you'll save when you remove those items.
+
+After you've selected items to remove, select the Clean up button for each section.
+
+Note: If it’s been fewer than 10 days since you upgraded Windows, your previous version of Windows will be listed as a system file you can delete. If you need to free up drive space, you can delete it, but keep in mind that you'll be deleting your Windows.old folder, which contains files that give you the option to go back to your previous version of Windows. If you delete your previous version of Windows, this can't be undone, and you won't be able to go back to your previous version of Windows.
+
+SOLUTION 3 USE EXTERNAL STORAGE TO INSTALL THE LATEST WINDOWS UPDATE
+Use external storage to install the latest Windows update
+Windows may indicate that it needs more space to get the latest Windows feature update. You can use an external storage device to help you complete the update.
+
+To learn more, see Get more space with external storage.
+
+SOLUTION 4 DELETE PERSONAL FILES OR MOVE THEM TO AN EXTERNAL STORAGE DEVICE
+Personal files such as videos, music, photos, and documents can take up a lot of space on your device. To see which files are using the most space:
+
+Select File Explorer  from the taskbar and find the files you want to move.
+
+Under This PC in the menu on the left, select a folder to see what files are saved in it. The Videos, Music, Pictures, and Downloads folders usually contain the largest files that you’ve saved to your device.
+
+To see the size of the files in a folder, select View from the taskbar, then select Details. Right-click in the open space (or select and hold), then select Sort by > Size to show the largest files at the top of the list.
+
+If there are files you no longer need on your device, you can either delete them or move them to an external storage device like a USB drive or an SD card.
+
+Note: If you delete any files, remember to empty the Recycle Bin to completely remove them from your device and free up space.
+
+
+To move photos, music, videos, or other files that you want to keep but don't use very often, consider saving them to an external storage device like a USB drive or an SD card. You'll still be able to use them when the drive is connected, but they won't take up space on your PC.
+
+Connect an external storage device like a USB drive or SD card to your PC.
+
+Select File Explorer  from the taskbar and go to the folder that contains the files you want to move.
+
+Select the files, then select Cut  on the ribbon. Navigate to the location of the external storage device you connected, then select Paste .
+
+SOLUTION 5 SAVE NEW PERSONAL FILES TO ANOTHER DRIVE
+Saving new files to another drive will help prevent low space problems on that drive in the future, so you won’t have to move your files to another drive repeatedly. Instead of saving all your new files to the default drive, you can save some of them to a different drive that has more free space.
+
+Select Start  > Settings  > System  > Storage  > Advanced storage settings  > Where new content is saved.
+Open Storage settings
+
+For each content type, select a drive from the drop-down menu. If the drive you want to use isn't listed there, make sure it's connected to your PC.
+
+SOLUTION 5 TURN ON ONEDRIVE FILES ON-DEMAND 
+You can save space by turning on OneDrive Files On-Demand, which stores a smaller placeholder file on your hard drive instead of the full-size file that's stored in your OneDrive account in the cloud. You'll be able to get to your OneDrive files from your PC without having to use up hard-drive space downloading full-size versions of them all.
+
+For more info, see Save disk space with OneDrive Files On-Demand for Windows.
+
+SOLUTION 6 RUN ANTIVIRIS SOFTWARE
+Sometimes a virus or other malware can consume significant hard-drive space by corrupting your system files. If you suspect your PC is infected with malware, use an antivirus program like Windows Security to run a virus scan and cleanup.

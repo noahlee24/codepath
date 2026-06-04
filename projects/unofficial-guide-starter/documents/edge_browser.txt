@@ -1,0 +1,185 @@
+With everything being online these days, it’s essential that your browser is fast, reliable, and keeps up with you. When it doesn’t, it can be deeply frustrating. We get that. In fact, it’s our mission to create a browser that never slows you down. We believe in having both productivity and performance.  
+
+Browser performance is essential to your success and is core to ours. We continue to deliver on our commitment to make Microsoft Edge faster, leaner, and more efficient than ever before. The following are our latest performance features.
+
+Sleeping tabs
+To improve memory and CPU utilization of the Microsoft Edge browser, we've developed a feature called sleeping tabs.
+
+Sleeping tabs puts background tabs to sleep after two hours of inactivity to free up resources for active tabs, new tabs, and other applications on your device. You can adjust the time interval by going to edge://settings/system. Sleeping tabs will fade to indicate they’ve released resources. To resume a sleeping tab, click on it like a normal tab. The tab will un-fade and your content will be immediately available.
+
+How do I change the amount of time before a tab goes to sleep?
+In Microsoft Edge, select Settings and more  > Settings  > System and performance  .
+Select Performance, make sure Automatically put tabs to sleep is set to On.
+Go to Put inactive tabs to sleep after a set time, choose the length of time that's best for you from the list.
+What activities prevent a site from going to sleep?
+To help you stay on task and limit potential compatibility issues, the following activities prevent sites from going to sleep:
+
+The page is currently visible (active tab)
+The page is sharing its BrowsingInstance with another page
+The page is your company’s internal (intranet) site
+The page is currently being inspected by DevTools
+The page is currently playing audio
+The page is currently capturing a window or screen
+The page is currently capturing user media (webcam, microphone, etc.)
+The page is currently being mirrored (casting, etc.)
+The page is on the user’s block list in Settings
+The page is currently using WebUSB
+We'll continue to adjust this list as needed.
+
+What about sites I never want to sleep?
+You can add sites you never want to sleep to a block list in Settings:
+
+In Microsoft Edge, select Settings and more  > Settings  > System and performance  .
+
+Select Performance.
+
+Go to Always keep these sites active, select Add site and type the full URL, and then select Add.
+
+Screenshot of the Add site to exclude dialog box.
+
+To change or remove a site from the Always keep these sites activelist:
+
+Select Settings and more SettingsandMore > Settings SettingsIcon > System and performance SystemIcon .
+Select Performance, then go to Always keep these sites active, select the 3 dots  SettingsandMore  next to the site you want to update and select Edit or Remove.
+What if I don’t want sleeping tabs to be faded?
+In Microsoft Edge, select Settings and more  > Settings  > System and performance  .
+Select Performance, and set Fade inactive tabs toggle to Off.
+How does the sleeping tabs technology work?
+Sleeping tabs builds on the core of Chromium’s freezing technology. Freezing pauses a tab’s script timers, which minimizes CPU usage and frees up the operating system to reuse the memory for other open tabs, new tabs, or system applications.
+
+What's the difference between a sleeping tab and a discarded tab?
+A sleeping tab simply pauses the page, allowing Microsoft Edge to release system resources. Specifically, sleeping reduces CPU usage to the bare minimum, which helps reduce battery consumption as well as release some of the memory.  The advantage of sleeping a tab is that going back to it again is fast and seamless.
+
+A discarded tab completely discards the page content from memory, allowing all of the resources (CPU, memory) to be released. The downside is that when you go back to that tab, the page content needs to be fully reloaded.
+
+How do I turn off sleeping tabs?
+You can turn off sleeping tabs by doing the following:
+
+In Microsoft Edge, select Settings and more  > Settings  > System and performance  .
+Select Performance, set the Automatically put tabs to sleep toggle to Off.
+What sleeping tabs group policies will enterprises get?
+We offer group policies to:
+
+Turn on and turn off the feature completely
+Manage the time before an inactive tab goes to sleep
+Manage which sites should be blocked from going to sleep
+These can be both mandatory or recommended group policies. If it’s a recommended group policy, IT admins will have the ability to set the default behavior that their users can change later, if they wish.
+
+Energy saver
+Energy saver is designed to help extend battery life. It minimizes power usage by reducing resource usage through modifying background tab activity and some foreground activity, as well as putting inactive background tabs to sleep after 30 minutes or less of inactivity (if Automatically put tabs to sleep is on). Benefits may vary depending on your device, applications, and individual browser habits.
+
+What’s the difference between Balanced and Maximum options in Energy saver?
+Balanced: This is the recommended option. It helps extend your battery life by saving computer resources. When your device is unplugged, moderate steps are taken to save your battery. You should experience no or minor slowdowns when you browse. When your device reaches low battery, additional steps are taken to save your battery. With these additional steps, you may experience some visible slowdowns when you browse. For example, it may cause videos to be less smooth.
+
+Maximum: Choose this option when you can’t be connected to power for an extended period and need to conserve more battery life. With this setting, for the entire time that you're unplugged, additional steps are taken to save your battery. The changes being made to your browser will be the same as when additional steps are taken in Balanced while on low battery. You may experience some visible slowdowns when you browse.  
+
+When does Energy saver become active?
+Energy saver will become active when your device is unplugged and will remain active until your device is connected to power or your laptop runs out of battery.
+
+If you want energy saver to be active when connected to power, you can turn this on in Settings:
+
+In Microsoft Edge, select Settings and more  > Settings  > System and performance  .
+Select Performance and enable Use energy saver even when connected to power.
+If I have "Use energy saver even when connected to power" selected, will I experience any visible slowdowns when I browse?
+If you have Balanced selected, you should experience no or minor slowdowns when you browse.
+
+If Maximum is selected, you will see better power savings, but you may experience some visible slowdowns when you browse. For example, it may cause videos to be less smooth.
+
+What about sites I never want to be impacted by energy saver?
+We do our best to minimize energy saver's impact to your browsing experience, but in some cases, it may cause videos to be less smooth, and you may experience some visible slowdowns when you browse. For scenarios where performance is important, such as gaming in the browser, we recommend excluding those sites from energy saver.
+
+You can exclude a site from energy saving mode by adding it to a block list in Settings:
+
+In Microsoft Edge, select Settings and more  > Settings  > System and performance  .
+Select Performance and go to Always keep these sites active. Select Add site, type in the full URL of the site you want excluded, then select Add.
+My tabs are set to sleep after a set amount of time that's different than what I previously selected and I can’t change it. Why?
+When energy saver is on, it puts background tabs to sleep after 30 minutes of inactivity when your device is taking moderate steps to save your battery (if Automatically put tabs to sleep is on) and five minutes of inactivity when additional steps are taken to maximize savings. To set the amount of time using the sleeping tabs settings, turn off energy saver.
+
+Does energy saver work on desktops?
+Although energy saver has advantages for battery-powered devices, it can also benefit desktop computers. Energy saver minimizes browser resource usage so the operating system can focus its resources on other running apps. However, if you enable energy saver, you may experience some visible slowdowns when you browse. You can turn this on for desktops from Settings:
+
+In Microsoft Edge, select Settings and more  > Settings  > System and performance  .
+Select Performance and set the toggle next to Enable energy saver to On.
+How can I turn off energy saver in Microsoft Edge?
+You can turn off energy saver by going to Microsoft Edge Settings:
+
+In Microsoft Edge, select Settings and more  > Settings  > System and performance  .
+Select Performance and set the toggle next to Enable energy saver to Off.
+What platforms does energy saver work on?
+The Microsoft Edge energy saver works on Windows, macOS, and Linux devices. The default for when the mode becomes active differs on each system:
+
+For Windows devices, it follows Windows Battery Saver mode
+For macOS devices, it turns on at 20%
+For Linux devices, it’s off by default
+What Microsoft Edge energy saver group policies do enterprises get?
+We offer group policies to:
+
+Enable and disable the feature entirely
+Manage if Energy saver is set to Balanced or Maximum
+Manage if Energy saver will become active when a device is plugged in
+These can be both mandatory or recommended group policies. If it’s a recommended group policy, IT admins will have the ability to set the default behavior that their users can change later, if they wish.
+
+Why do I see efficiency mode in Windows Task Manager?
+The Microsoft Edge energy saver (formerly known as efficiency mode) is a web browser feature that reduces power usage while you're browsing and is a separate feature from Windows efficiency mode. Turning off Microsoft Edge efficiency mode doesn't turn off Windows efficiency mode.
+
+The efficiency mode you see in the Windows Task Manager status column is a new Windows 11 feature that automatically limits resources used by a single process or process group when high CPU use is detected. This improves device responsiveness for active processes, prolongs battery life, lowers thermal noise, and reduces stress on the CPU by lowering background process priority. Turning off Windows efficiency mode in Task Manager doesn't turn off the Microsoft Edge  efficiency mode.
+
+You'll know the Windows efficiency mode efficiency mode is turned on if you see a green double-leaf icon next to the process in the status column. Efficiency mode may cause instability for certain processes.
+
+To turn off the Windows efficiency mode for a process in Task Manager:
+
+Select Start  , enter Task Manager in the search bar, and select the Task Manager app from the list of results.
+
+Select the Processes  tab from the left-side menu, then search for the process you'd like to turn off.
+
+In the Name column, right-click (or select and hold) the process, then select Efficiency mode from the menu to turn it off. The green double-leaf icon will disappear. If you've selected a process group, select the right arrow  on the left side of the process group name to expand it, right-click (or select and hold) the individual process you want to turn off, then select Efficiency mode from the menu.
+
+Note
+
+Windows Task Manager efficiency mode can't be turned on or off for most process groups. For example, you can't turn efficiency mode on or off for the Windows Explorer process group, but you can turn individual File Explorer folders on or off from the expanded list.
+
+Repeat these steps to turn off efficiency mode for other processes.
+
+You can turn the Windows Task Manager efficiency mode back on for one or more processes at any time by repeating the steps listed above.
+
+The first time you turn on efficiency mode:
+
+A pop-up will display that says Do you want to turn on Efficiency mode for '[Process Name]'? Decide whether to select the Don't ask me again checkbox, then select OK to turn efficiency mode on for that process. A green double-leaf icon will appear to the right of the process name.
+
+Tip
+
+If you select the Don't ask me again checkbox, the next time you turn on efficiency mode for any process you won't be asked to confirm.
+
+You can also quickly turn efficiency mode on or off by:
+
+Selecting Start   > Task Manager app > Processes tab, selecting the process name you want to manage, then selecting the Efficiency mode icon located in the top-right corner of the Task Manager. If the icon is greyed out, efficiency mode is not available for this process group.
+Performance detector
+Microsoft Edge proactively takes steps to minimize resource usage when your device is under pressure to keep your device running smoothly. One way Microsoft Edge does this is by putting tabs to sleep when memory pressure is detected on your device. Sometimes the proactive steps that Microsoft Edge takes aren't enough to completely resolve the issue. For those instances, we built a feature called the Performance detector.  
+
+The performance detector helps identify high resource usage (memory (RAM) and/or processing power (CPU)) of background tabs and when an issue is detected, provides a way for you to fix it.
+
+Where can I find the performance detector?
+The performance detector can be found at the bottom of the performance hub:
+
+In Microsoft Edge, go to Settings and more SettingsandMore > More tools > Performance.
+What does the performance detector look like when no issues have been detected?
+In Microsoft Edge, go to Settings and more  > More tools > Performance. When no issues are detected, the Tabs performance status will display as Healthy.
+
+tabs_performance_healthy
+
+When an issue has been detected, how do I fix it?
+If an issue is detected, you can choose to sleep or close all tabs, or you can sleep or close individual tabs. To do this:
+
+In Microsoft Edge, go to Settings and more  > More tools.
+Select Performance and select the 3 dots  next to any of the tabs listed, and select either Sleep tab or Close tab.
+Every time you sleep or close a tab, the gauge will begin returning to green. Once it's green again, the performance detector will say "Low usage" and the list of tabs will disappear.
+
+What platforms does the performance detector work on?
+The performance detector works on Windows, macOS, and Linux and is turned on by default on each platform.
+
+How can I turn off the performance detector?
+You can turn off the performance detector by going to Microsoft Edge Settings:  
+
+In Microsoft Edge, select Settings and more  > Settings   > System and performance  .
+Select Performance.
+Set Enable performance detector to Off.

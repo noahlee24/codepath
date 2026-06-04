@@ -1,0 +1,40 @@
+Step 1: Update Chrome
+Chrome works best when you're on the latest version. Update Google Chrome.
+
+Step 2: Close unused tabs
+The more tabs you have open, the harder Chrome has to work. We recommend closing tabs you aren't using.
+
+On the tab, select Close Close.
+For Windows, Linux, and Chrome OS, use the keyboard shortcut Ctrl + w.
+For Mac, use the keyboard shortcut ⌘ + w.
+Step 3: Turn off or stop unwanted processes
+Turn off or delete unwanted extensions
+Extensions are small programs you can add to Chrome on your computer that let you do more. If you're not using all your extensions, you can turn them off to speed up Chrome.
+
+On your computer, open Chrome.
+At the top right, select More More and then Extensions and then Manage Extensions.
+Turn off or remove the extension.
+Learn more about managing extensions.
+
+Stop unwanted tasks
+Look for tasks you no longer need that are using a lot of resources, like a video or an app.
+
+On your computer, open Chrome.
+At the top right, select More More.
+Select More tools and then Task Manager.
+Select “Memory” to sort tasks by memory usage.
+Tip: Look for any items labeled "Background page."
+Select the task you want to close.
+Select End Process.
+Note: Any unsaved work in your task will be lost.
+Step 4: Configure your preload settings
+To browse and search faster, Chrome preloads pages that you might visit. To preload pages, Chrome may use cookies, if you allow cookies, and may encrypt and send pages through Google to hide your identity from sites. Learn more about cookies.
+
+On your computer, open Chrome.
+At the top right, select More More and then Settings.
+On the left, select Performance.
+Turn Preload pages on or off.
+Select the setting that you want.
+Tips:
+Avoid running multiple apps at the same time.
+Reset Chrome settings to default so it runs like it did when it was first installed.

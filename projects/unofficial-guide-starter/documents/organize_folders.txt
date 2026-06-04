@@ -1,0 +1,34 @@
+How to create new folders and organize your files
+Whether you’re using your laptop for work, school, or personal projects, you’re bound to have lots of files stored in your File Explorer. It’s easy to just close out of a file after hitting “save,” but your documents, pictures, spreadsheets, and downloads can pile up over time and create a big digital mess. The best way to keep your files organized is by sorting them into folders to ensure that everything has a designated place. Learn how to make folders in Windows 11 and strategies to enjoy a clutter-free operating system.
+
+Why is it a good idea to create folders?
+
+When it comes to arranging paper files, it’s better to neatly store them in a file cabinet or in individual folders than keep them in one large pile. The same goes for digital files—even if the messy pile isn’t as visible. Creating new folders and organizing your files by category will help you find them when you need them. Plus, having all of your files out in the open can look and feel overwhelming, so separating them into folders can put your mind at ease every time you open your File Explorer.
+
+How to use File Explorer to create a new folder
+
+Creating a new folder in Windows 11 is super easy, and there are a few ways to do it. To make a new folder, simply open File Explorer and select Home in the upper-left corner of the window to find the New folder icon. A new folder will automatically appear on the screen, and you can rename the folder by right-clicking on the name. You can also use the keyboard shortcut Ctrl + Shift + N to create a new folder.
+
+How to move your files into a new folder
+
+After creating a new folder, you can start adding your files to begin the desktop organization process. Select the document you wish to move and drag it into your new folder. To drag multiple documents at once, select each document and drag the group.
+
+Ways to organize your files
+
+Now that you know how to create folders and move files, it’s time to consider the best ways to organize files for your purposes. Here are a few file organization strategies to keep your digital world in order:
+
+Think in levels
+
+To create a manageable file structure, consider the difference between high-level categories and lower-level categories. Higher-level categories are big picture, such as work, home, children, etc. Lower-level categories get into the specifics, such as work projects, home maintenance, and school forms. The lower-level topics fit into the higher-level topics, making it easy to find all related files in one place and keep just high-level folders on your desktop.
+
+Plan around priorities
+
+Sorting files by date is common, but you might also try organizing your folders based on time. Consider how deadlines or priority-level might factor into your desktop file organization. Do you want to make a folder for your most urgent tasks? Should there be a to-do folder in each of your higher-level folders to quickly find priorities in each area? Or maybe it’s a priority to build fun into your daily life, and you want to keep a folder of family videos that make you laugh as the first folder you see every day. Whatever your priorities are, file organization can help you find and keep them.
+
+Consider long-term storage
+
+Don’t be afraid to create long-term storage in your operating system. You might choose to hold onto many files for reference or to enjoy later, but you don’t want those clogging your daily flow. Consider making a folder for older files you’re not using. That way you can find files when you need them and keep them out of your way when you don’t.
+
+Organizing your files into folders will make all the difference in helping you find what you need and keeping your desktop free of mess. Get more tips on using Windows 11 from the Windows Learning Center.
+
+DISCLAIMER: Features and functionality subject to change. 

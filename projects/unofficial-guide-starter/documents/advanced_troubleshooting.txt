@@ -1,0 +1,25 @@
+Leonard with the Performance Team here to discuss the Resource Monitor tool and we can use it to troubleshoot Windows Performance issues. In this blog, (the first of 2 on the subject of underutilized tools) I will discuss Resource Monitor which is available on both client and server versions of Windows starting with Windows Vista. Resource Monitor can be launched from the advanced tools tab in “Performance Information and Tools”, which is located in Control Panel. It can also be launched directly by running Resmon.exe .
+
+Resource Monitor is a method of viewing Perfmon data. In fact, Resource Monitor is composed of Perfmon data combined with Windows Event Tracing data. You can view this tracing session by launching Perfmon, expanding Data Collector Sets, then select Event Tracing Sessions. There you will see a session called WDC.GUID (the GUID will vary). You can confirm this provides the data for Resource Monitor by observing that this trace is only running when Resource Monitor is running. Also, when it is running, you can view the channels that provide the data. Launching Resource Monitor will also launch a background process of Perfmon to act as a data source.
+
+Resmon will show the window below on first launch. Each new launch will show the view as configured when Resmon was closed.
+
+
+
+There are 5 tabs to choose from. The overview tab gives a summary of the other ones. The main tabs are CPU, Memory, Disk and Networking. In each of the tabs the windows on the left can be collapsed, expanded and resized. It is also possible to filter each view by the process, for example you are only interested in seeing the activity for Explorer, check the box for that process and the bottom window will only show the activity for that process. With no processes selected, the bottom windows will show activity for all active processes. The graphs on the right can be resized between small, medium and large, but I would recommend keeping them at the default large setting. The numeric scale for the graphs will change as activity changes.
+
+My Favorite features
+
+The memory tab has one unique graph that provides a quick view of what physical memory is being used for.
+
+
+
+It is easy to see the total physical memory and what it is being actively used along with showing what is hardware reserved. Hardware Reserved represents physical memory addresses that have been reserved by hardware (generally busses like PCI or video cards) and is not available for Windows to use. It is usually small on x64 systems (except servers that do memory mirroring) but can be several 100MB up to 1GB on x32 systems. This means a 4GB x86 system can have only 3 GB of accessible memory.
+
+The network tab is useful in that it not only shows the process that is generating activity, but the IP address it is connected to.
+
+
+
+I recently had an issue where the system process was showing high CPU activity on a Windows 2008 Server. Two of the things that run in system are the SMB and SMB2 processes. I suspected that the high CPU was due to network activity and was a load based problem and not a problem with a process. To confirm that was the cause, I used Process Explorer to determine the threads that were running in the system process. I confirmed that there were 15+ SMB and SMB2 threads that were always the highest consumer of CPU. I then ran Resmon and looked at all of the IP addresses that were associated with system. We identified a management server that was receiving a lot of data. Based on that information, we were able to narrow down the problem to the request coming from that server. While the problem could have been identified using different tools, Resmon provided the most efficient way to identify the problem.
+
+I hope this overview of Resource Monitor will make it one of the tools you use the next time you need to look at performance data or activity on the system.

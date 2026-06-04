@@ -1,0 +1,103 @@
+Tips to improve PC performance in Windows
+Applies To
+Windows 11
+Windows 10
+Summary
+Your Windows device may run slowly for several reasons, such as limited storage space, too many startup apps running in the background, outdated software, or hardware that no longer meets modern performance needs. To help diagnose and resolve many of these issues, you can use the Microsoft PC Manager app, which provides tools to clean up storage, manage startup apps, and optimize system performance.
+
+Download PC Manager app
+
+This article lists several solutions that may help improve your PC’s performance. We recommend trying all the listed solutions as multiple factors can contribute to slow performance.
+
+Note: Older PCs with outdated hardware may not see significant improvements from these steps. In those cases, upgrading the device may be the best long-term solution.
+
+SOLUTION 1. 
+Install Windows updates and optional driver updates
+Windows Updates often include fixes and performance improvements.
+Check for Windows updates:
+Select Start  >Settings  > Windows Update  > Check for updates.
+Check for Windows updates
+If the status is You're up to date, go to optional updates.
+If any updates are available for you, select Download & install. Your device will download and install the updates.
+Check for Optional updates:
+Sometimes an optional update, like a new non-critical driver, will be available that may help.
+Select Start > Settings > Windows Update > Advanced options > Optional updates.
+If additional updates are available, select them and then select Download & install.
+Note: The device may restart if required to complete the installation process.
+
+SOLUTION 2. 
+Run a malware scan to detect and remove threats that slow PC performance
+Malware can consume CPU and disk resources, which can reduce system performance. Running a malware scan can help detect and remove threats.
+Select Start > Settings > Privacy & security > Windows Security > Virus & threat protection.
+Select Quick scan.
+Note: The device may restart if required to complete the process.
+
+SOLUTION  3. 
+Free up disk space to boost PC performance
+Low disk space can reduce system performance. Use Storage Sense and cleanup tools to remove temporary files.
+Run Storage Sense to delete temp files automatically:
+Select Start > Settings > System > Storage.
+Select Storage Sense.
+Select Run Storage sense now.
+Clear temporary files manually:
+Select Start > Settings > System > Storage.
+Select Temporary files and check all the files you'd like to remove and then select Remove files.
+Use Disk Cleanup:
+Select Start and type Disk Cleanup, and then select Disk Cleanup from the results.
+Select the drive you'd like to clean up.
+
+SOLUTION  4. 
+Uninstall unused apps to free space and boost performance
+Removing apps you no longer use can free storage and reduce background activity.
+Select Start > Settings > Apps > Installed apps​​​​​​​.
+Find the apps you want to remove, select More options (…), and then select Uninstall.
+
+SOLUTION  5. 
+Disable startup apps to reduce the background activity
+Apps that run at startup can slow boot time and increase background usage. Disable apps you do not need to start automatically.
+Press Ctrl + Shift + Esc to open Task Manager.
+Select Startup apps from the left-hand menu.
+Right-click the apps you want to disable, and then select Disable.
+Solution 6. Turn off background apps and background permissions
+Some apps run background processes even when not in use. Turning off background activity can improve performance.
+Select Start > Settings > Apps > Installed apps​​​​​​​.
+Find the app you want to manage, select More options (…), and then select Advanced options.
+Under Background app permissions, in the Let this app run in the background list, select Never.
+
+SOLUTION 
+7. Choose the best performance option in Control panel
+Windows 11 visual effects can use system resources. Adjusting these settings can improve responsiveness.
+Select Start, type Adjust the appearance and performance of Windows and open it.
+On the Visual Effects tab, select Adjust for best performance.
+
+SOLUTION  8. 
+Set Power mode to Best performance
+If power usage is not a concern, selecting Best performance can help the CPU run at higher performance when needed.
+Select Start > Settings > System > Power & battery.
+In the Power mode dropdown, select Best performance.
+Note: Selecting Best performance increases power consumption. On laptops, this setting will drain the battery more quickly and may cause the device to run warmer. Use this option only when you need maximum performance and when power availability is not a limitation.
+
+SOLUTION 9. 
+Optimize drives to boost PC performance
+Optimizing your hard drive can improve PC performance.
+Select Start, type Defragment and Optimize Drives, and open it.
+Select the drive you want to optimize, and then select Optimize.
+
+SOLUTION  10. 
+Monitor resource usage and troubleshoot heavy processes
+Monitoring CPU, memory, and disk usage can help identify processes that may be slowing your PC.
+Press Ctrl + Shift + Esc to open Task Manager.
+On the Processes tab, right-click and close the apps you are not using.
+Review the Performance and Startup apps tabs to identify the components using high resources.
+
+SOLUTION  11. 
+Turn off unnecessary app notifications
+Turning off notifications you do not need can reduce interruptions and provide small performance improvements.
+Select Start > Settings > System > Notifications.
+Turn off notifications for the apps you do not need.
+
+SOLUTION 12. 
+Close unused apps and restart your PC
+Having many apps or browser tabs open can slow performance. Close any apps or tabs you don’t need. If performance does not improve, restart your PC.
+Select Start > Power > Restart.
+After the restart, open only the apps you need and close them when you are done.
