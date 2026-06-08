@@ -2,6 +2,25 @@ Windows File Explorer helps you find, open, organize, and manage files and folde
 
 Windows 11
 Windows 10
+
+How do I use File Explorer?
+To pin a folder to Quick access, right-click (or press and hold) the folder and select Pin to Quick access. 
+To share a file, select it, then select Share on the ribbon. 
+To move the location of a file or folder, select it and then select Cut on the ribbon. Navigate to the new location, then select Paste. 
+To change how your items appear in File Explorer, select View on the ribbon and choose between showing icons, lists, details, and more. 
+To reduce the space between files, select View > Compact view. 
+To find relevant files from your PC and the cloud, search from File Explorer Home 
+
+How do I create a new folder?
+With your document open, click File > Save As. 
+Under Save As, select where you want to create your new folder. You might need to click Browse, or Computer, and navigate to the location for your new folder. 
+In the Save As dialog box that opens, click New Folder. 
+Type the name of your new folder, and press Enter. 
+
+What happens when I delete a synced file?
+When you delete a synced online-only file from your device, it is removed from all devices and from the cloud. But you can restore such deleted files and folders by going in your web browser to the recycle bin in your OneDrive or your SharePoint library. Select the file there, then select Restore. 
+
+If you've deleted a synced file that has been downloaded to your device, after deletion it will also be in your device's recycle bin.
 To open File Explorer in Windows 11, select it on the taskbar or the Start menu, or press the Windows logo key + E on your keyboard.
 
 Shows File Explorer, with the right-click menu open for a file. "Pin to Quick access" is highlighted in the menu.
